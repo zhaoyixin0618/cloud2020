@@ -1,1 +1,2 @@
-11111
+config:
+  info: "master branch, config-dev, version = 1"
